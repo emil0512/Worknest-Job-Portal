@@ -4,25 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About The Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Database Setup](#-database-setup)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Login Credentials](#-login-credentials)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ## 🎯 About The Project
 
 **WorkNest** is a complete job portal solution designed to connect job seekers, employers, and career counselors on a single platform. It leverages AI-powered resume parsing and intelligent job matching to provide personalized job recommendations.
